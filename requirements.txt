@@ -1,3 +1,4 @@
 streamlit==1.36.0
 streamlit-folium==0.18.0
 folium==0.15.1
+pip install ortools==9.4.1874
